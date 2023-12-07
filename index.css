@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(197, 146, 244);
+}
+#addTaskForm{
+    background-image: url(./img/task-management-it-concept-vector-21299966-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left;
+}
+.form-control{
+opacity: 0.9;
+}
+.form-control:focus{
+    opacity: 1;
+}
+.modal-content{
+    background-color: rgb(185, 128, 238);
+}
